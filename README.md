@@ -1,4 +1,5 @@
-![Capture1](https://github.com/Lemonioneater/task6fulter/assets/142171270/8858c0c9-be9b-4ba5-9f04-5430d008a6e6)
+
+![Capture1_1](https://github.com/Lemonioneater/task6fulter/assets/142171270/edc1e93a-b545-451a-95b7-e38017aaed49)
 
 ![Capture2](https://github.com/Lemonioneater/task6fulter/assets/142171270/22b6e9fd-faf9-481d-97ce-30fcd9fb702f)
 
