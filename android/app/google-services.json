@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676281677631",
+    "project_id": "icthub-task5",
+    "storage_bucket": "icthub-task5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676281677631:android:b567d6c9b4e2f9c8db058a",
+        "android_client_info": {
+          "package_name": "com.example.task3ahmed_faisal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676281677631-dvj325hkalg6al61u2suvt607r41s6hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy1WXERj01ieX-lYs-smE99lvW9WmvsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676281677631-dvj325hkalg6al61u2suvt607r41s6hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
