@@ -10,6 +10,15 @@ import 'firebase_options.dart';
 
 int y = 0;
 
+Future<bool> logout() async{
+  try {
+    await FirebaseAuth.instance.signOut();
+    return true;
+  } catch (error) {
+    print(error.toString());
+    return false;
+  }
+}
 
 
 Future<void> main() async {

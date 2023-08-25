@@ -1,22 +1,13 @@
 
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:task3ahmed_faisal/Cubit/Shop/shop_state.dart';
 import '../Cubit/Shop/shop_cubit.dart';
 import '../Data/List_displayers/Product_display2.dart';
 import '../Data/Styles/textstyles.dart';
+import '../main.dart';
 import 'Login.dart';
 
-Future<bool> logout() async{
-  try {
-    await FirebaseAuth.instance.signOut();
-    return true;
-  } catch (error) {
-    print(error.toString());
-    return false;
-  }
-}
 
 
 class Products extends StatelessWidget {

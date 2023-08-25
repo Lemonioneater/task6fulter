@@ -4,7 +4,6 @@ import 'package:task3ahmed_faisal/Cubit/Shop/shop_cubit.dart';
 import 'package:task3ahmed_faisal/Cubit/Shop/shop_state.dart';
 import '../Data/List_displayers/Cart_displayer.dart';
 import '../main.dart';
-import 'Products_page.dart';
 import 'Login.dart';
 
 class Cartpage extends StatelessWidget {
